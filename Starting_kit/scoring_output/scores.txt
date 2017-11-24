@@ -1,0 +1,4 @@
+set1_score: 0.874135882856
+set2_score: 0.862602507251
+set3_score: 0.877462683922
+Duration: 0
