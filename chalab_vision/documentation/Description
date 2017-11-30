@@ -1,0 +1,10 @@
+##What the hell is that ?
+
+#Brought to you by Vision group
+
+Since the end of the 20th century, autonomous vehicles have been debated within the scientific community. Combining artificial intelligence and industrial know-how, they are one of the major objectives of the beginning of the 21th century. We can note for example the GoogleCar project, the Testla Autopilot or the AVA(Autonomous Vehicle for All) project from PSA. However, obstacles remain to be overcome, in particular the behavior of the vehicle in response to its environment of evolution. This step is based on the analysis of its environment and therefore on the entities that make it up. In this challenge, we will therefore study the preliminary stage of the Decision, ie the classification of the detected entities (by the cameras of the vehicle for example). To illustrate this problematic, we propose to study the image source CIFAR-10 which groups entities that can interact with the vehicle environment like animals(cat, horse, dog, ...) and vehicles (bike, car, truck, ...).
+
+References and credits: 
+R. A. Fisher. The use of multiple measurements in taxonomic problems. Annual Eugenics, 7, Part II, 179-188 (1936). 
+The competition protocol was designed by Isabelle Guyon. 
+This challenge was generated using ChaLab.

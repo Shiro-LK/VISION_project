@@ -1,0 +1,5 @@
+${challenge_title} - Data
+
+This challenge relies on the ${dataset_name} dataset from UCI repository. See the full description here(link : https://www.cs.toronto.edu/~kriz/cifar.html).
+
+You can download the data and a starting kit allowing you to generate a baseline submission from the "Files" tab.

@@ -1,0 +1,10 @@
+Métrique utilisée:
+
+name: bac_multiclass (métrique publique)
+
+description: Normalized balanced accuracy for multi-class data
+
+code:
+
+def bac_multiclass(solution, prediction):
+    return bac_metric(solution, prediction, task='multiclass.classification')
