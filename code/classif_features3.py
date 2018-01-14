@@ -261,5 +261,6 @@ if __name__ == '__main__':
     plt.title("satisfied number of data")
 
     plt.legend()
+    plt.grid(True)
     plt.show()
 
