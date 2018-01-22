@@ -1,5 +1,15 @@
-This the Vision problem.
+This is the Vision project. Since the end of the 20th century, autonomous 
+vehicles  have  been  debated  within  the  scientific community. One of the issue raised are the behavior of the vehicule 
+which depend of the obstacle. In this challenge, we will study 
+the preliminary stage of the Decision, ie the classiﬁcation of detected entities          
+(by the cameras of the vehicle for example).  To illustrate this problematic, 
+we propose to study the image source CIFAR-10 which groups entities that 
+can interact with the vehicle environment like animals(cat,  horse,  dog,  ...)  
+and vehicles (bike, car, truck, ...).                 
+
 Credits:
+Vincent Boyer, Warren Pons, Ludovic Kun, Qixiang PENG
+
 
 Prerequisites:
 Install Anaconda Python 2.7, including jupyter-notebook
